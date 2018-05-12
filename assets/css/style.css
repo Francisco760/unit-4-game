@@ -1,0 +1,76 @@
+body {
+	background-image: url(../images/arena.jpg);
+	background-size: cover;	
+}
+
+
+h2 {
+	font-family: fantasy;
+}
+
+
+.fighters {
+
+	height: 175px;
+}
+
+
+.hero {	
+
+}
+
+.fighting {
+
+}
+
+#picking {
+	width: 0 auto;
+	height: 0 auto;
+	margin: 0 auto;
+	padding: 30px;
+}
+
+.theCenter {
+	margin: 0 auto;
+	padding: 30px;
+	width: auto;
+	height: auto;
+
+}
+
+#attack {
+	font-family: 'Lumos';
+	font-size: 24px;
+}
+
+#restart {
+	font-family: 'Lumos';
+	font-size: 22px;
+}
+
+#whathappens {
+	background-color: #99b4c7;
+	font-family: sans-serif;
+}
+
+#winsloses {
+	font-family: fantasy;
+	margin-right: 50px;
+	margin-top: 20px;
+	padding: 20px;
+	font-size: 25px;
+	background-color: white;
+	width: 25%;
+	left: 37%;
+	position: relative;
+	top: 100px;
+
+}
+
+#todo {
+	background-color: white;
+	font-family: fantasy;
+	font-size: 40px;
+	text-align: center;
+	padding: 15px;
+}
